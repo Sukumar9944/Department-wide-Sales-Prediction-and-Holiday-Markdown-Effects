@@ -1,0 +1,22 @@
+# Excluding Data Consolidation folder
+Data_Consolidation
+
+# Excluding Data Processing folder
+Data_Processing
+
+# Excluding Datasets folder
+Datasets
+
+# Excluding Model Building folder
+Model_Building
+
+# Excluding ML flow runs except artifacts
+ML_Flow_runs/Model_0.1
+ML_Flow_runs/ML_Flow_UI.png
+ML_Flow_runs/mlruns.csv
+
+# Excluding license
+LICENSE
+
+# Excluding Readme file
+README.md
