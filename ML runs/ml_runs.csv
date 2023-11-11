@@ -1,0 +1,5 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,n_estimators,n_estimators_cv,MAE_tr,MAE_tt,RMSE_tr,RMSE_tt,r2_cv,r2_tr,r2_tt,sparkDatasourceInfo
+2023-11-10 17:56:54,4.5min,8760ab93becb4728ab4b90946cd548a7,Model 0.2,NOTEBOOK,/Users/marsuku576@gmail.com/Final Project/Machine Learning/ML Training,marsuku576@gmail.com,FINISHED,100,,708.1864164631615,1923.0415724897402,2076.5978566488047,6197.813142295127,,0.9915950036666051,0.9270752003057658,"path=dbfs:/FileStore/tables/consolidate/merged_df.csv,format=text
+path=dbfs:/FileStore/tables/consolidate/merged_df.csv,format=csv"
+2023-11-10 17:10:47,1.7min,462638eb1109440b91484436041b46b9,Model 0.1,NOTEBOOK,/Users/marsuku576@gmail.com/Final Project/Machine Learning/ML Training,marsuku576@gmail.com,FINISHED,,dict_values([150]),,,,,0.9320135452395203,,,"path=dbfs:/FileStore/tables/consolidate/merged_df.csv,format=text
+path=dbfs:/FileStore/tables/consolidate/merged_df.csv,format=csv"
