@@ -1,0 +1,12 @@
+artifact_path: Transformer
+databricks_runtime: 14.1.x-gpu-ml-scala2.12
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.7.1
+model_uuid: 0db3bf883ee74c579c9da536fafd9873
+run_id: 9c3da78f7b104f89b165650291e1ce0c
+utc_time_created: '2023-11-12 11:38:44.114278'
