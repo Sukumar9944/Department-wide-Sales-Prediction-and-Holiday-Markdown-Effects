@@ -4,6 +4,9 @@
 
 This project focuses on predicting department-wide sales for each store for the upcoming year while also considering the impact of markdowns during holiday weeks. The goal is to provide valuable insights to assist in decision-making and offer recommended actions to maximize business impact.
 
+![Screenshot (451)](https://github.com/Sukumar9944/Department-wide-Sales-Prediction-and-Holiday-Markdown-Effects/assets/132226144/e702677a-df77-43f1-8064-3799fa91d529)
+
+
 ### Table of Contents
 
 1. [Introduction](#introduction)
