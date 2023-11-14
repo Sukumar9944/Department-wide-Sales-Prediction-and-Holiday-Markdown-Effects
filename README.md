@@ -33,6 +33,13 @@ The dataset used for this project includes historical sales data, markdown infor
 
 ### Methods
 
+#### Data Processing with PySpark and Databricks
+The data processing and merging steps were efficiently handled using PySpark and Databricks. This allowed for scalable and distributed processing of large datasets, ensuring optimal performance. The key steps involved in data processing include:
+
+1.Data Cleaning
+
+2.Data Merging
+
 #### Predictive Model
 
 We employed Random forest regressor for the model, column transformer with one hot encoding and ordinal encoding to encode the categorical variables and GridSearch CV for Hyperparamter tuning and ML Flow to log the artifacts, hyperparamters and Evaluation metrics to build an accurate forecasting model. The model was trained on historical data, validated, and fine-tuned to ensure robust predictions.
