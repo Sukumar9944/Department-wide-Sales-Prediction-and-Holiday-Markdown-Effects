@@ -15,7 +15,6 @@ This project focuses on predicting department-wide sales for each store for the 
 4. [Results](#results)
 5. [Recommendations](#recommendations)
 6. [Usage](#usage)
-7. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -36,9 +35,9 @@ The dataset used for this project includes historical sales data, markdown infor
 #### Data Processing with PySpark and Databricks
 The data processing and merging steps were efficiently handled using PySpark and Databricks. This allowed for scalable and distributed processing of large datasets, ensuring optimal performance. The key steps involved in data processing include:
 
-1.Data Cleaning
+1. Data Cleaning
 
-2.Data Merging
+2. Data Merging
 
 #### Predictive Model
 
