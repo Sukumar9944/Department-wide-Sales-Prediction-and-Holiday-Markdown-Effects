@@ -55,7 +55,7 @@ Based on the insights drawn from the model and holiday markdown analysis, the fo
 1. **Prioritize Holiday Markdowns:** Focus on strategic markdowns during holiday weeks to maximize sales impact.
 2. **Optimize Inventory:** Adjust inventory levels based on predicted sales to prevent overstock or stockouts.
 3. **Focus on the Least Stores and Department which has very much low contribution on Overall Sales**
-4. **To view more detailed insights:Go to this Link:**
+4. **To view more detailed insights : Go to this Link:**
    https://public.tableau.com/views/Insights-FinalProject/OverallSales?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ---
