@@ -12,16 +12,21 @@ This project focuses on predicting department-wide sales for each store for the 
 4. [Results](#results)
 5. [Recommendations](#recommendations)
 6. [Usage](#usage)
-7. [Dependencies](#dependencies)
-8. [Acknowledgments](#acknowledgments)
+7. [Acknowledgments](#acknowledgments)
+
+---
 
 ### Introduction
 
 In today's dynamic retail environment, accurately predicting sales and understanding the impact of promotions, especially during holiday weeks, is crucial for strategic planning. This project aims to address these challenges by developing a predictive model for department-wide sales and analyzing the effects of markdowns on holiday weeks.
 
+---
+
 ### Data
 
 The dataset used for this project includes historical sales data, markdown information, and holiday schedules for each store. The features used in the model include [Year, Store, Store_Type, Department, Temperature, Fuel_Price, CPI, Unemployment], and the target variable is the department-wide sales.
+
+---
 
 ### Methods
 
@@ -33,11 +38,15 @@ We employed Random forest regressor for the model, column transformer with one h
 
 To understand the effects of markdowns during holiday weeks, we conducted Pearson's Correlation and Data Visualizations using Tablueau. This allowed us to identify patterns and correlations between markdowns and sales during holiday periods.
 
+---
+
 ### Results
 
 - The predictive model achieved a R2 score of 99% on Training data and 92% on Testing data.
-- The analysis of holiday markdown effects revealed that the markdown has a Significant effect on Overall Sales]. Detailed results can be found in
+- The analysis of holiday markdown effects revealed that the markdown has a Significant effect on Overall Sales. Detailed results can be found in
   https://public.tableau.com/views/EffectsOfMarkdown/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+---
 
 ### Recommendations
 
@@ -48,6 +57,8 @@ Based on the insights drawn from the model and holiday markdown analysis, the fo
 3. **Focus on the Least Stores and Department which has very much low contribution on Overall Sales**
 4. **To view more detailed insights:Go to this Link:**
    https://public.tableau.com/views/Insights-FinalProject/OverallSales?:language=en-US&:display_count=n&:origin=viz_share_link
+
+---
 
 ### Usage
 
