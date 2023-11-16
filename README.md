@@ -75,8 +75,4 @@ To use the predictive model and view the results, follow these steps:
 
 1. Clone the repository.
 2. Install the required dependencies (see requirements.txt).
-3. Run app.py.
-
----
-
-Feel free to customize this template according to the specifics of your project. Include any additional sections or details that you find relevant.
+3. Run app.py
